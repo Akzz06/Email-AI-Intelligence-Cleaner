@@ -26,7 +26,7 @@ This app requires you to get your own API keys from Google and Groq.
 **Step 1: Clone the Repository**
 ```bash
 git clone [https://github.com/Akzz06/Email-AI-Intelligence-Cleaner.git](https://github.com/Akzz06/Email-AI-Intelligence-Cleaner.git)
-cd Email-AI-Intelligence-Cleaner
+cd AI-Inbox-Curator
 ````
 
 **Step 2: Install Dependencies**
