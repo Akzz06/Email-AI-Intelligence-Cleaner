@@ -1,0 +1,11 @@
+# Google/Database files
+token.json
+credentials.json
+emails.db
+*.db
+
+# Python cache
+__pycache__/
+
+# Environment files
+.env
