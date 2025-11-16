@@ -1,4 +1,4 @@
-# 📧 Email-AI-Intelligence-Cleaner
+# 📧 AI-Inbox-Curator
 
 A smart email assistant built with Streamlit and Groq. It uses an AI agent to automatically fetch, classify, and clean your Gmail inbox using a background worker.
 
